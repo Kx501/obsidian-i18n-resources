@@ -1,3 +1,3 @@
 # obsidian-i18n-resources
 
-工项插件翻译
+共享插件翻译
